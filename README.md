@@ -22,17 +22,20 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub Profile!</br>
 
-- 🌱 I'm **Varad More**, an Engineering student pursuing in major Information Technology from FCRIT, Vashi, **India** <img src="https://www.countryflags.com/wp-content/uploads/india-flag-png-large.png" width="13"/>. 
+- 🌱 I'm **Varad More**, an MS CS Grad at Arizona State University! <img src="https://aci.az.gov/sites/default/files/media/ASU-logo.png" width="30"/>
+  
+<!-- **India** <img src="https://www.countryflags.com/wp-content/uploads/india-flag-png-large.png" width="13"/>. -->
+<!--
 - 🔭  Co foundner and Chief Operating Officer at <a href="https://botonomics.io"> **Botonomics Automations LLP** <img src= "https://api.startupindia.gov.in/sih/api/file/user/image/Startup?fileName=ccb00c01-32a6-4bf3-8ef5-c6a1d74ad91d.png" width = "20"></a>. Check out our product <a href="https://teedee.io"> <img src="https://api.startupindia.gov.in/sih/api/file/user/gallery?fileName=3c3fcd64-7064-4f0b-ada1-21aad8d144c4.png" width="20"> **Teedee**</a>, An AI powered chatbot platform.
+-->
 
 
-
-## My Stats
+<!-- ## My Stats -->
 
 <!-- <a href="https://github.com/varad-more/github-readme-stats"> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=varad-more&show_icons=true&bg_color=45,000000,333333&text_color=FFFFFF&title_color=00ff00&icon_color=ffff33&count_private=true" width="425" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=varad-more&show_icons=true&bg_color=45,000000,333333&text_color=FFFFFF&title_color=00ff00&icon_color=ffff33&count_private=true" width="425" />-->
 <!-- </a> -->
 <!-- <a href="https://github.com/varad-more/github-readme-stats"> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varad-more&layout=compact&bg_color=45,000000,333333&title_color=00ff00&text_color=FFFFFF&count_private=true" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varad-more&layout=compact&bg_color=45,000000,333333&title_color=00ff00&text_color=FFFFFF&count_private=true" />-->
 <!-- </a> -->
 
