@@ -38,103 +38,29 @@ Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
 
 🔧 My Core Toolbox
 
-☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
 
-<p align="left">
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
-</a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" alt="Terraform" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
-</a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
-</a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Google Cloud" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
-</a>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
-</a>
-</p>
+```text
+AWS • Terraform • Docker • Kubernetes • Google Cloud • Nginx
+```
 
-🧠 Data & AI/ML
+### 🧠 Data & AI/ML
 
-<p align="left">
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" alt="PyTorch" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
-</a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
-</a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" alt="OpenCV" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
-</a>
-<!-- <a href="https://spacy.io/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spacy/spacy-original-wordmark.svg" alt="spaCy" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
-</a> -->
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
-</a>
-<!-- <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazondynamodb/amazondynamodb-original-wordmark.svg" alt="DynamoDB" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
-</a> -->
-<!-- <a href="https://aws.amazon.com/athena/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonathena/amazonathena-original-wordmark.svg" alt="Athena" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
-</a> -->
-</p>
+```text
+PyTorch • TensorFlow • OpenCV • PostgreSQL • NumPy • Pandas
+```
 
-💻 Languages
+### 💻 Languages
 
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
-</a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
-</a>
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
-</a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
-</a>
-</p>
+```text
+Python • JavaScript • TypeScript • Java • C++ • Bash
+```
 
-🛠️ Frameworks & Tools
+### 🛠️ Frameworks & Tools
 
-<p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
-</a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" alt="Django" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
-</a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
-</a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
-</a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
-</a>
-<a href="https://graphql.org" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
-</a>
-</p>
+```text
+React • Django • Flask • FastAPI • Node.js • GraphQL • Git
+```
 
   
 <!-- **India** <img src="https://www.countryflags.com/wp-content/uploads/india-flag-png-large.png" width="13"/>. -->
